@@ -60,7 +60,7 @@
 					echo("no it wont log anything");
 				}
 			} else {
-				echo("moreshitbroke");
+				echo("random error message indicating it not working 1");
 				echo("Error creating table " . $conn->error);
 			}
 
@@ -90,7 +90,7 @@
 					echo("no it wont log anything");
 				}
 			} else {
-				echo("moreshitbroke");
+				echo("random error message indicating it not working 1");
 				echo("Error creating table " . $conn->error);
 			}
 		}
