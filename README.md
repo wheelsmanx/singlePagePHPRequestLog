@@ -8,7 +8,9 @@ If you send the request "body=deleteRequestLog" It will truncate the log for you
 
 If you use this in conjunction with postman it will show you all the requests and how they are formed. 
 
-Usecase: 
+# Usecase: 
 
-You have a webhook that is suppose to hit an API endpoint but you dont know what the exact request will look like - this will give you clear logging about the request/response. 
+ - You have a webhook that is suppose to hit an API endpoint but you dont know what the exact request will look like - this will give you clear logging about the request/response. 
+
+ - Mostly I use this for multi end point logging. 
  
